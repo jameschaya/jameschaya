@@ -7,5 +7,3 @@ I bridge the gap between complex PHP architecture and seamless user experiences.
 **Need a custom solution or priority support?** 
 Email me: diskdigs@gmail.com
 
----
-*“Code is poetry and magical, but support is the heart of a great product.”*
